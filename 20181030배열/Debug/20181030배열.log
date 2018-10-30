@@ -1,4 +1,4 @@
-﻿빌드 시작: 2018-10-30 오후 4:19:51
+﻿빌드 시작: 2018-10-30 오후 5:09:21
      1>2 노드의 "C:\Users\LG\Desktop\C프\2017440107이윤호\20181030배열\20181030배열.vcxproj" 프로젝트(Build 대상)입니다.
      1>ClCompile:
          D:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "배열.cpp"
@@ -10,4 +10,4 @@
 
 빌드했습니다.
 
-경과 시간: 00:00:01.35
+경과 시간: 00:00:01.84

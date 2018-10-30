@@ -1,0 +1,15 @@
+﻿빌드 시작: 2018-10-30 오후 5:13:05
+     1>2 노드의 "C:\Users\LG\Desktop\C프\2017440107이윤호\20181030함수\20181030함수.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         D:\VisualStudio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "함수.cpp"
+         함수.cpp
+       Link:
+         D:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LG\Desktop\C프\2017440107이윤호\Debug\20181030함수.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LG\Desktop\C프\2017440107이윤호\Debug\20181030함수.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LG\Desktop\C프\2017440107이윤호\Debug\20181030함수.lib" /MACHINE:X86 "Debug\함수.obj"
+         "Debug\함수2.obj"
+     1>함수2.obj : error LNK2005: _main이(가) 함수.obj에 이미 정의되어 있습니다.
+     1>C:\Users\LG\Desktop\C프\2017440107이윤호\Debug\20181030함수.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+     1>"C:\Users\LG\Desktop\C프\2017440107이윤호\20181030함수\20181030함수.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:01.34
