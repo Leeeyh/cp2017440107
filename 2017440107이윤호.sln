@@ -79,6 +79,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120 정렬", "20181120
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120 다른자료형", "20181120 다른자료형\20181120 다른자료형.vcxproj", "{97169E7E-AEC4-4CC9-A577-0500116E64AD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181127 구조체", "20181127 구조체\20181127 구조체.vcxproj", "{7078836E-FF7E-470C-BA77-0C932DE253A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -241,6 +243,10 @@ Global
 		{97169E7E-AEC4-4CC9-A577-0500116E64AD}.Debug|Win32.Build.0 = Debug|Win32
 		{97169E7E-AEC4-4CC9-A577-0500116E64AD}.Release|Win32.ActiveCfg = Release|Win32
 		{97169E7E-AEC4-4CC9-A577-0500116E64AD}.Release|Win32.Build.0 = Release|Win32
+		{7078836E-FF7E-470C-BA77-0C932DE253A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7078836E-FF7E-470C-BA77-0C932DE253A9}.Debug|Win32.Build.0 = Debug|Win32
+		{7078836E-FF7E-470C-BA77-0C932DE253A9}.Release|Win32.ActiveCfg = Release|Win32
+		{7078836E-FF7E-470C-BA77-0C932DE253A9}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
